@@ -6,7 +6,7 @@ This is the official repository for SAM-PARSER: Fine-tuning SAM Efficiently by P
 1. Create a virtual environment `conda create -n SAM_PARSER python=3.10 -y` and activate it `conda activate SAM_PARSER`
 2. Install [Pytorch 2.0](https://pytorch.org/get-started/locally/)
 3. `git clone https://github.com/SJTU-DeepVisionLab/SAM-PARSER`
-4. Enter the MedSAM folder `cd medical` and run `pip install -e .`
+4. `cd medical` and run `pip install -e .`
 
 
 ### Data preparation and preprocessing
