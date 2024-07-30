@@ -10,6 +10,7 @@ The official implementation of AAAI 2024 paper:"SAM-PARSER: Fine-tuning SAM Effi
   pages={4515--4523},
   year={2024}
 }
-## Method
+```
+# Method
 
 <img src="framework.png" width="800">
