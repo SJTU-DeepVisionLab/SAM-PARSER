@@ -51,8 +51,6 @@ python train.py
 ## Inference
 
 
-Run
-
 ```bash
 python Inference.py
 ```
