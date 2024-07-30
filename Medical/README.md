@@ -65,10 +65,13 @@ python Inference.py
 ## Reference
 
 ```
-@article{MedSAM,
-  title={Segment Anything in Medical Images},
-  author={Ma, Jun and Wang, Bo},
-  journal={arXiv preprint arXiv:2304.12306},
-  year={2023}
+@inproceedings{peng2024sam,
+  title={Sam-parser: Fine-tuning sam efficiently by parameter space reconstruction},
+  author={Peng, Zelin and Xu, Zhengqin and Zeng, Zhilin and Yang, Xiaokang and Shen, Wei},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={38},
+  number={5},
+  pages={4515--4523},
+  year={2024}
 }
 ```
